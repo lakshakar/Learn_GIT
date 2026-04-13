@@ -13,3 +13,5 @@ Bangalore
 Hyderabad
 Vadodara
 Dehradun
+Pushpa
+Lakshakar
