@@ -11,3 +11,5 @@ ONGC
 SGSITS
 IISC
 IIIT Hyderabad
+Bangalore
+Hyderabad
